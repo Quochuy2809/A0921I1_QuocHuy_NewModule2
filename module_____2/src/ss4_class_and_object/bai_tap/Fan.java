@@ -46,13 +46,13 @@ public class Fan {
     }
 
     public static void main(String[] args) {
-        _4_class_and_object.baitap.Fan f1 = new _4_class_and_object.baitap.Fan();
+        ss4_class_and_object.bai_tap.Fan f1 = new ss4_class_and_object.bai_tap.Fan();
         f1.setMaxSpeed();
         f1.setRadius(10);
         f1.setColor("yellow");
         f1.setOn(true);
 
-        _4_class_and_object.baitap.Fan f2= new _4_class_and_object.baitap.Fan();
+        ss4_class_and_object.bai_tap.Fan f2= new ss4_class_and_object.bai_tap.Fan();
         f2.setMediumSpeed();
         f2.setRadius(5);
 
